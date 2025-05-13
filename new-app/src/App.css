@@ -1,0 +1,9 @@
+body {
+  background-color: rgb(64, 58, 58);
+}
+.list-group-item {
+  background-color: rgb(195, 179, 179);
+}
+.container {
+  justify-content: center;
+}
